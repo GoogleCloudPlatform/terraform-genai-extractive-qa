@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/compare/v0.3.0...v0.3.1) (2025-01-10)
+
+
+### Bug Fixes
+
+* Pin Google provider to 5.37.0 & set LOG_EXECUTION_ID ([#166](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/issues/166)) ([1ac2543](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/commit/1ac25438ad378313aa54a12b879cfe4291c75c84))
+
 ## [0.3.0](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/compare/v0.2.0...v0.3.0) (2024-05-29)
 
 
